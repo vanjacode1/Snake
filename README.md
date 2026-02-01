@@ -22,12 +22,12 @@ SNAKE/
 │ └─ config.py # directions / settings
 ├─ core/
 │ ├─ init.py
-│ ├─ apple.py # Apple classes + spawn logic (red/gold/toxic)
+│ ├─ apple.py # Apple classes + spawn logic 
 │ ├─ game.py # Game state + board building/rendering
-│ └─ snake.py # Snake logic (movement, growth, collisions)
+│ └─ snake.py # Snake logic 
 ├─ utils/
 │ ├─ init.py
-│ └─ utils.py # helper functions / drawing / input helpers
+│ └─ utils.py # helper functions 
 ├─ main.py # entry point
 └─ README.md
 ```
