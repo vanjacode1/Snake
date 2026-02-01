@@ -1,0 +1,12 @@
+CELL = 24          
+FPS  = 10 
+
+UP = (-1, 0)
+DOWN = (1, 0)
+LEFT = (0,-1)
+RIGHT = (0, 1)
+
+DIAGONALLY_UP_LEFT = (-1,-1)
+DIAGONALLY_UP_RIGHT = (-1, 1)
+DIAGONALLY_DOWN_LEFT = ( 1,-1)
+DIAGONALLY_DOWN_RIGHT = ( 1, 1)
