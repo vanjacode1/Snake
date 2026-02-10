@@ -19,11 +19,11 @@ Play using the **arrow keys**, including **diagonal movement** by pressing two a
 SNAKE/
 ├─ config/
 │ ├─ init.py
-│ └─ config.py # directions / settings
+│ └─ config.py # directions
 ├─ core/
 │ ├─ init.py
-│ ├─ apple.py # Apple classes + spawn logic 
-│ ├─ game.py # Game state + board building/rendering
+│ ├─ apple.py # Apple classes + spawn logic (red/gold/toxic)
+│ ├─ game.py # Game state + board building
 │ └─ snake.py # Snake logic 
 ├─ utils/
 │ ├─ init.py
