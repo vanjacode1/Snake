@@ -14,7 +14,7 @@ Play using the **arrow keys**, including **diagonal movement** by pressing two a
 
 ---
 ## Demo
-[![Demo video](snake/snake.gif.png)](https://github.com/vanjacode1/Snake/blob/main/snake.gif)
+[![Demo video](Snake/snake.gif.png)](https://github.com/vanjacode1/Snake/blob/main/snake.gif)
 ---
 ## Project Structure
 ```bash
