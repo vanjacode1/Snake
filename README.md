@@ -13,7 +13,9 @@ Play using the **arrow keys**, including **diagonal movement** by pressing two a
   - **Toxic apples**: **chase you** and can **kill** you
 
 ---
-
+## Demo
+[![Demo video](snake/snake.gif.png)](https://github.com/vanjacode1/Snake/blob/main/snake.gif)
+---
 ## Project Structure
 ```bash
 SNAKE/
