@@ -14,7 +14,7 @@ Play using the **arrow keys**, including **diagonal movement** by pressing two a
 
 ---
 ## Demo
-![Snake](Snake/snake_demo.gif)
+![Snake](snake_demo.gif)
 ---
 ## Project Structure
 ```bash
